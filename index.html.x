@@ -11,7 +11,7 @@ programming technical program
    "Python", "HTML/CSS"," Assembly","javascript","Kotline" etc.
 
 ## Current Projects
- https://github.com/alianjiku-cmd/Alice-w.murungaruh— Its based on web development and linux
+ https://github.com/alianjiku-cmd/Alice-w.murungaruh— Its based on web development and linux command line, and the basics of HTML and CSS.
 
 ## How to Reach Me
 - Email: alianjiku@gmail.com
