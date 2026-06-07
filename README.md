@@ -1,2 +1,19 @@
 # Alice-w.murungaruh
 programming technical program
+# Hi, I'm [Alice w.Murungaruh]
+
+## About Me
+- I'm currently learning Programming at We Can Academy.
+- I'm interested in  web development.
+- I'm looking to collaborate on "beginner-friendly open source projects".
+
+## Skills I'm Building
+- Git and GitHub
+   "Python", "HTML/CSS"," Assembly","javascript","Kotline" etc.
+
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: alianjiku@gmail.com
+- LinkedIn: [your LinkedIn profile link]
